@@ -1,5 +1,6 @@
-langchain
+langcpython-dotenv
 langchain-groq
 langchain-huggingface
+langchain
 python-dotenv
 huggingface_hub
